@@ -13,8 +13,9 @@ protocol Runnabel {
     var x :Speed {
         get
     }
-    func haha()
+
 }
+
 //class Dog: Runnabel {
 //    typealias Speed = Int
 //    var x: Speed = 10
