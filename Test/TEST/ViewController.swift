@@ -13,7 +13,7 @@ protocol Runnabel {
     var x :Speed {
         get
     }
-
+    func getMe()
 }
 
 //class Dog: Runnabel {
