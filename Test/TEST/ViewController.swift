@@ -33,15 +33,15 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
 //        var dog = self.get(false)
         
-//        var a :Int? = 10
-//
-//        switch a {
-//        case .none:
-//            print("空的")
-//        case let .some(x):
-//            print(x)
-//        }
-//
+        var a :Int? = 10
+////
+////        switch a {
+////        case .none:
+////            print("空的")
+////        case let .some(x):
+////            print(x)
+////        }
+////
         
         get(10)
         
