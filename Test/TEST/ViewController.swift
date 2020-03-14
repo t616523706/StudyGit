@@ -17,8 +17,6 @@ protocol Runnabel {
 }
 
 //class Dog: Runnabel {
-//    typealias Speed = Int
-//    var x: Speed = 10
 //    
 //}
 
